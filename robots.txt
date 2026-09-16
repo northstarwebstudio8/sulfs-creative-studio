@@ -1,0 +1,6 @@
+# SULFS - robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap link
+Sitemap: https://sulfs.com/sitemap.xml

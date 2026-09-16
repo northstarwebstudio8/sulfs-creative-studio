@@ -1,0 +1,6 @@
+{
+  "name": "SULFS Creative Studio",
+  "description": "Smart User-Led Film Studio — AI-Powered Stories. Real Business Impact. Premium short-form video advertising agency for UK Home Improvement, Real Estate, and Dental & Aesthetic Clinics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
